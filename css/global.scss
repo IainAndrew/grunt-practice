@@ -1,0 +1,7 @@
+h1 {
+	font-family:Futura;
+	color:#444;
+	&:hover {
+		color:lighten(#444, 20%);
+	}
+}
